@@ -71,6 +71,7 @@
 )
 - S.T.E.M Summer camp for kids K--8 with a focus on robotics and science topics like chemistry and physics
 - Instructed students programming LEGO Mindstorms Robots
+- Coach of a First Lego League (F.L.L) competition team
 == Projects
 *Post Quantum Cryptography* -- Enabled Post Quantum Functionality on a VPN (#link("https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2022", [SoftEtherVPN\#2022]))
 - Researched and integrated oqs-provider into the build process of SoftEtherVPN, integrating it with CMake automatically to include post quantum functionality by default on any platform
