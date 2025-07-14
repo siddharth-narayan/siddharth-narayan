@@ -1,16 +1,8 @@
-Hi! I'm Siddharth
+# Hello!
+Hi! I'm Siddharth - I enjoy working on challenging problems, especially ones involving performance, system design, and infrastructure. I value clean, understandable code, stability, and reproducibilty, and well designed systems.
+I have a wide area of skills and understanding, from frontend and backend to server management, networking and devOps.
 
----
 
-## 🧭 About Me
-
-I enjoy working on technically challenging problems, particularly those involving performance, system design, and infrastructure. I value clean abstractions, composability, and practical engineering over hype.
-
-🔍 **Key interests:**
-- Operating systems, bootloaders, and compilers
-- GPU computing and Web-native graphics (WebGPU/WGSL)
-- Secure network protocol design (VPNs, TLS, raw sockets)
-- Functional and declarative build systems (Nix/NixOS)
 
 # Low Level Languages
 
@@ -27,24 +19,16 @@ I enjoy working on technically challenging problems, particularly those involvin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=ai-translation-extension)](https://github.com/siddharth-narayan/ai-translation-extension)
 
 ### Web & UI - Frontend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=ai-translation-extension)](https://github.com/siddharth-narayan/ai-translation-extension)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=AiFlow)](https://github.com/siddharth-narayan/AiFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=socialgraph)](https://github.com/siddharth-narayan/socialgraph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=zxform)](https://github.com/siddharth-narayan/zxform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=fakenzb)](https://github.com/siddharth-narayan/fakenzb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-lms)](https://github.com/siddharth-narayan/test-lms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-gui-linux)](https://github.com/siddharth-narayan/softether-gui-linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=openssl-quantum)](https://github.com/siddharth-narayan/openssl-quantum)
 
-https://github.com/siddharth-narayan/AiFlow
-https://github.com/siddharth-narayan/socialgraph
-https://github.com/siddharth-narayan/zxform
-https://github.com/siddharth-narayan/test-lms
-https://github.com/siddharth-narayan/openssl-quantum
-https://github.com/siddharth-narayan/softether-gui-linux
-https://github.com/siddharth-narayan/fakenzb
-https://github.com/srivatt18/Spotlight
-
-**Tools & Platforms:**  
-Linux, Nix/NixOS, Git, Docker, Vim, OpenSSL
-
-**Web & UI:**  
-React, Tailwind CSS, Vite, Svelte
-
----
+### Misc
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=Spotlight)](https://github.com/siddharth-narayan/Spotlight)
 
 ## 🎯 Current Focus
 
@@ -53,14 +37,10 @@ React, Tailwind CSS, Vite, Svelte
 - Exploring graphics pipelines and shader programming  
 - Contributing to open source with a focus on reproducibility and maintainability
 
----
-
 ## 📊 GitHub Stats
 
 ![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-narayan&hide_rank=true&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&&hide=svelte&layout=compact&theme=default)
-
----
 
 ## 📫 Contact
 
