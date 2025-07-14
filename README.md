@@ -7,28 +7,41 @@ I have a wide area of skills and understanding, from frontend and backend to ser
 # Low Level Languages
 
 ### Rust
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-cli)](https://github.com/siddharth-narayan/softether-cli)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn-rust)](https://github.com/siddharth-narayan/test-vpn-rust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-cli&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/softether-cli#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn-rust&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/test-vpn-rust#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-cli&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/softether-cli#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn-rust&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/test-vpn-rust#gh-light-mode-only)
 
 ### C
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn)](https://github.com/siddharth-narayan/test-vpn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/test-vpn#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/test-vpn#gh-light-mode-only)
 
 # High Level Languages
 
 ### Python
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=ai-translation-extension)](https://github.com/siddharth-narayan/ai-translation-extension)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=ai-translation-extension&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/ai-translation-extension#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=ai-translation-extension&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/ai-translation-extension#gh-light-mode-only)
 
 ### Web & UI - Frontend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=AiFlow)](https://github.com/siddharth-narayan/AiFlow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=socialgraph)](https://github.com/siddharth-narayan/socialgraph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=zxform)](https://github.com/siddharth-narayan/zxform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=fakenzb)](https://github.com/siddharth-narayan/fakenzb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-lms)](https://github.com/siddharth-narayan/test-lms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-gui-linux)](https://github.com/siddharth-narayan/softether-gui-linux)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=openssl-quantum)](https://github.com/siddharth-narayan/openssl-quantum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=AiFlow&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/AiFlow#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=socialgraph&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/socialgraph#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=zxform&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/zxform#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=fakenzb&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/fakenzb#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-lms&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/test-lms#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-gui-linux&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/softether-gui-linux#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=Spotlight&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/Spotlight#gh-dark-mode-only)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=AiFlow&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/AiFlow#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=socialgraph&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/socialgraph#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=zxform&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/zxform#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=fakenzb&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/fakenzb#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-lms&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/test-lms#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-gui-linux&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/softether-gui-linux#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=Spotlight&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/Spotlight#gh-light-mode-only)
 
 ### Misc
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=Spotlight)](https://github.com/siddharth-narayan/Spotlight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=openssl-quantum&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/openssl-quantum#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=openssl-quantum&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/openssl-quantum#gh-light-mode-only)
 
 ## 🎯 Current Focus
 
