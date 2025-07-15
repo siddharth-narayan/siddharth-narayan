@@ -1,11 +1,11 @@
 ## Hello!
-Hi! I'm Siddharth - I enjoy working on challenging problems, especially ones involving performance, system design, and infrastructure. I value clean, understandable code, stability, and reproducibilty, and well designed systems.
+Hi! I'm Siddharth - I enjoy working on challenging problems, especially ones involving performance, system design, and infrastructure. I value clean, understandable code, stability, reproducibilty, and well designed systems.
 I have a wide area of skills and understanding, from frontend and backend to server management, networking and devOps.
 
 
 
 ## Experience
-I have experience in many languages, with a lot of langauages, frameworks, and services, most of which are small projects not worth putting on Github. If you don't see it here, there's still a good chance I have experience with it! I'll just list a couple thing you won't see much of here but that I have significant experience in.
+I have experience in many languages, with a lot of langauages, frameworks, and services, most of which are small projects not worth putting on Github. If you don't see it here, there's still a good chance I have experience with it! I'll just list a couple technologies you won't see much of here but that I have significant experience in.
 
 - NginX
 - Java
