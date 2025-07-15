@@ -1,10 +1,18 @@
-# Hello!
+## Hello!
 Hi! I'm Siddharth - I enjoy working on challenging problems, especially ones involving performance, system design, and infrastructure. I value clean, understandable code, stability, and reproducibilty, and well designed systems.
 I have a wide area of skills and understanding, from frontend and backend to server management, networking and devOps.
 
 
 
-# Low Level Languages
+## Experience
+I have experience in many languages, with a lot of langauages, frameworks, and services, most of which are small projects not worth putting on Github. If you don't see it here, there's still a good chance I have experience with it! I'll just list a couple thing you won't see much of here but that I have significant experience in.
+
+- NginX
+- Java
+- Docker
+- Linux / Server Management
+- DevOps with Nix
+- Reverse Engineering with Ghidra
 
 ### Rust
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-cli&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/softether-cli#gh-dark-mode-only)
@@ -15,8 +23,6 @@ I have a wide area of skills and understanding, from frontend and backend to ser
 ### C
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/test-vpn#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/test-vpn#gh-light-mode-only)
-
-# High Level Languages
 
 ### Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=ai-translation-extension&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/ai-translation-extension#gh-dark-mode-only)
@@ -43,23 +49,18 @@ I have a wide area of skills and understanding, from frontend and backend to ser
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=openssl-quantum&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/openssl-quantum#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=openssl-quantum&theme=light#gh-light-mode-only)](https://github.com/siddharth-narayan/openssl-quantum#gh-light-mode-only)
 
-## 🎯 Current Focus
+## My Stats
 
-- Writing robust, testable systems-level software  
-- Developing modular plugins and infrastructure for Moodle  
-- Exploring graphics pipelines and shader programming  
-- Contributing to open source with a focus on reproducibility and maintainability
+[![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-narayan&hide_rank=true&show_icons=true&theme=dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
-## 📊 GitHub Stats
+[![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-narayan&hide_rank=true&show_icons=true&theme=light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
 
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-narayan&hide_rank=true&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&&hide=svelte&layout=compact&theme=default)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&&hide=svelte&layout=compact&theme=dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
-## 📫 Contact
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&&hide=svelte&layout=compact&theme=light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
 
-If you're interested in collaborating, discussing a technical project, or just saying hello:
+## Contact Me!
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: Open an issue or discussion on one of my repos
+If you're interested in collaborating, discussing something, or just saying hello, email me at siddharth.060605@gmail.com!
 
-Thanks again for stopping by.
+Thanks for stopping by!
