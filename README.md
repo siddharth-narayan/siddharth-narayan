@@ -1,6 +1,6 @@
 ## Hello!
 Hi! I'm Siddharth - I enjoy working on challenging problems, especially ones involving performance, system design, and infrastructure. I value clean, understandable code, stability, reproducibilty, and well designed systems.
-I have a wide area of skills and understanding, from frontend and backend to server management, networking and devOps.
+I have a wide area of skills and understanding, from frontend and backend, to server management, networking and devOps.
 
 
 
