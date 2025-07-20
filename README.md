@@ -14,6 +14,17 @@ I have experience in many languages, with a lot of langauages, frameworks, and s
 - DevOps with Nix
 - Reverse Engineering with Ghidra
 
+### Open Source contributions
+Notable contributions I've made so far
+- https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2002
+
+- https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2022
+
+- https://github.com/NixOS/nixpkgs/pull/323286
+
+- https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2033
+
+
 ### Rust
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=softether-cli&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/softether-cli#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siddharth-narayan&repo=test-vpn-rust&theme=dark#gh-dark-mode-only)](https://github.com/siddharth-narayan/test-vpn-rust#gh-dark-mode-only)
@@ -55,9 +66,9 @@ I have experience in many languages, with a lot of langauages, frameworks, and s
 
 [![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharth-narayan&hide_rank=true&show_icons=true&theme=light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&&hide=svelte&layout=compact&theme=dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&&hide=svelte&layout=compact&theme=light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-narayan&size_weight=0.5&count_weight=0.5&layout=compact&theme=light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
 
 ## Contact Me!
 
