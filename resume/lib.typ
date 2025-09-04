@@ -41,7 +41,7 @@
   )
   
 #let tech(skill) = box(
-  // fill: gradient.linear(..color.map.flare, angle: 270deg),
+  fill: gradient.linear(..color.map.flare, angle: 270deg),
   // fill: gold-gradient,
   width: 8em,
   inset: 1em,

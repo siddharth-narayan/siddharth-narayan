@@ -11,26 +11,24 @@
 #let personal-site = "novaphaze.com"
 
 #let languages = (
-  (name: "JavaScript", images: ("assets/icons/javascript/javascript-original.svg",)),
-  (name:"Python",images:("assets/icons/python/python-original.svg",)),
   (name:"C/C++", images:("assets/icons/cplusplus/cplusplus-original.svg","assets/icons/c/c-diamond.svg",)),
   (name:"Rust", images:("assets/icons/rust/rust-original.svg",)),
+  (name:"Java", images:("assets/icons/java/java-original.svg",)),
+  (name:"Python",images:("assets/icons/python/python-original.svg",)),
+  (name: "JavaScript", images: ("assets/icons/javascript/javascript-original.svg",)),
   (name: "HTML CSS", images: (
     "assets/icons/html5/html5-original.svg",
     "assets/icons/css3/css3-original.svg",
   )),
-  (name: "Nix", images: ())
+  (name:"Svelte", images:("assets/icons/svelte/svelte-original.svg",)),
+  (name:"React", images:("assets/icons/react/react-original.svg",)),
+  (name: "Nix", images: ("assets/icons/nixos/nixos-original.svg",))
 )
 
 #let technologies = (
+  (name:"Git", images:("assets/icons/git/git-original.svg",)),
   (name: "Docker", images: ("assets/icons/docker/docker-plain.svg",)),
-  (name:"Python",images:("assets/icons/nginx/nginx-original.svg",)),
-  (name:"C/C++", images:("assets/icons/cplusplus/cplusplus-original.svg","assets/icons/c/c-diamond.svg",)),
-  (name:"Rust", images:("assets/icons/rust/rust-original.svg",)),
-  (name: "HTML CSS", images: (
-    "assets/icons/html5/html5-original.svg",
-    "assets/icons/css3/css3-original.svg",
-  )),
+  (name:"NginX",images:("assets/icons/nginx/nginx-original.svg",)),
 )
 
 #show: resume.with(
