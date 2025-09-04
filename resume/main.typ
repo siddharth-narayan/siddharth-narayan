@@ -73,28 +73,19 @@
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   consistent: true
 )
-- Relevant Coursework: Data Structures, Program Development, Microprocessors, Abstract Algebra I: Groups and Rings, Linear Algebra, Discrete Mathematics, Multivariable & Single Variable Calculus, Principles and Practice of Comp Sci
+- Relevant Coursework: Compiler Design, Operating Systems Concepts, Software Engineering, Advanced Algorithm Design, Computer Architecture, Data Structures, Linear Algebra
 
 == Projects
+*ZxForms* -- Simple Zod-based Form Builder 
+#link("https://github.com/siddharth-narayan/zxforms", [github.com/siddharth-narayan/zxforms])
 
-#project(
-  name: "Hyperschedule",
-  // Role is optional
-  role: "Maintainer",
-  // Dates is optional
-  dates: dates-helper(start-date: "Nov 2023", end-date: "Present"),
-  // URL is also optional
-  url: "hyperschedule.io",
-)
-- Maintain open-source scheduler used by 7000+ users at the Claremont Consortium with TypeScript, React and MongoDB
-  - Manage PR reviews, bug fixes, and coordinate with college for releasing scheduling data and over \$1500 of yearly funding
-- Ensure 99.99% uptime during peak loads of 1M daily requests during course registration through redundant servers
+- Built an intuitive, simple form builder that generates a fully featured form from a single Zod schema
 
 
 
 == Skills
 *Programming Languages*
-
+#set par(justify: false)
 #for language in languages [
   #tech(language)
 ]
