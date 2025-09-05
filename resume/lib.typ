@@ -41,9 +41,10 @@
   )
   
 #let tech(skill) = box(
-  fill: gradient.linear(..color.map.flare, angle: 270deg),
+  // fill: gradient.linear(..color.map.flare, angle: 270deg),
   // fill: gold-gradient,
   width: 8em,
+  height: 8em,
   inset: 1em,
   {
     let cols = skill.images.len()
@@ -53,7 +54,12 @@
       row-gutter: 1em,
       align: center,
       ..skill.images.map(i => {
-        image(i, width: 4em)
+        if skill.name != none {
+          image(i, width: 4em)
+        } else {
+          image(i, width: 6em)
+        }
+        
       }),
       grid.cell(colspan: cols, strong(skill.name))
     )

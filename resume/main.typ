@@ -11,57 +11,43 @@
 #let personal-site = "novaphaze.com"
 
 #let languages = (
-  (name:"C/C++", images:("assets/icons/cplusplus/cplusplus-original.svg","assets/icons/c/c-diamond.svg",)),
-  (name:"Rust", images:("assets/icons/rust/rust-original.svg",)),
-  (name:"Java", images:("assets/icons/java/java-original.svg",)),
-  (name:"Python",images:("assets/icons/python/python-original.svg",)),
+  (name: "C/C++", images: ("assets/icons/c/c-diamond.svg", "assets/icons/cplusplus/cplusplus-original.svg")),
+  (name: "Rust", images: ("assets/icons/rust/rust-original.svg",)),
+  (name: "Java", images: ("assets/icons/java/java-original.svg",)),
+  (name: "Python", images: ("assets/icons/python/python-original.svg",)),
   (name: "JavaScript", images: ("assets/icons/javascript/javascript-original.svg",)),
-  (name: "HTML CSS", images: (
-    "assets/icons/html5/html5-original.svg",
-    "assets/icons/css3/css3-original.svg",
-  )),
-  (name:"Svelte", images:("assets/icons/svelte/svelte-original.svg",)),
-  (name:"React", images:("assets/icons/react/react-original.svg",)),
-  (name: "Nix", images: ("assets/icons/nixos/nixos-original.svg",))
+  (
+    name: "HTML CSS",
+    images: (
+      "assets/icons/html5/html5-original.svg",
+      "assets/icons/css3/css3-original.svg",
+    ),
+  ),
+  (name: "Svelte", images: ("assets/icons/svelte/svelte-original.svg",)),
+  (name: "React", images: ("assets/icons/react/react-original.svg",)),
+  (name: "Nix", images: ("assets/icons/nixos/nixos-original.svg",)),
 )
 
 #let technologies = (
-  (name:"Git", images:("assets/icons/git/git-original.svg",)),
+  (name: "Git", images: ("assets/icons/git/git-original.svg",)),
   (name: "Docker", images: ("assets/icons/docker/docker-plain.svg",)),
-  (name:"NginX",images:("assets/icons/nginx/nginx-original.svg",)),
+  (name: "NginX", images: ("assets/icons/nginx/nginx-original.svg",)),
+  (name: none, images: ("assets/icons/ghidra-logo.png",)),
 )
 
 #show: resume.with(
   author: name,
-  // All the lines below are optional.
-  // For example, if you want to to hide your phone number:
-  // feel free to comment those lines out and they will not show.
-  // location: location,
   email: email,
   github: github,
-  // linkedin: linkedin,
   phone: phone,
   personal-site: personal-site,
-  accent-color: "#ff7b79",
+  accent-color: color.rgb(255, 90, 0),
   font: "New Computer Modern",
   paper: "us-letter",
   author-position: left,
   personal-info-position: left,
 )
 
-/*
-* Lines that start with == are formatted into section headings
-* You can use the specific formatting functions if needed
-* The following formatting functions are listed below
-* #edu(dates: "", degree: "", gpa: "", institution: "", location: "", consistent: false)
-* #work(company: "", dates: "", location: "", title: "")
-* #project(dates: "", name: "", role: "", url: "")
-* certificates(name: "", issuer: "", url: "", date: "")
-* #extracurriculars(activity: "", dates: "")
-* There are also the following generic functions that don't apply any formatting
-* #generic-two-by-two(top-left: "", top-right: "", bottom-left: "", bottom-right: "")
-* #generic-one-by-two(left: "", right: "")
-*/
 == Education
 
 #edu(
@@ -71,16 +57,23 @@
   degree: "Bachelor's in Computer Science",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
-  consistent: true
+  consistent: true,
 )
 - Relevant Coursework: Compiler Design, Operating Systems Concepts, Software Engineering, Advanced Algorithm Design, Computer Architecture, Data Structures, Linear Algebra
 
 == Projects
-*ZxForms* -- Simple Zod-based Form Builder 
-#link("https://github.com/siddharth-narayan/zxforms", [github.com/siddharth-narayan/zxforms])
+*Post Quantum Cryptography* -- Enabled Post Quantum Functionality on a VPN (#link("https://github.com/siddharth-narayan/zxforms", [SoftEtherVPN\#2002]))
+- Researched and integrated oqs-provider into the build process of SoftEtherVPN, integrating it with Cmake automatically to include post quantum functionality by default on any platform
 
-- Built an intuitive, simple form builder that generates a fully featured form from a single Zod schema
+*AI-Flow* -- A UI for HuggingFace ML Models (#link("https://github.com/siddharth-narayan/aiflow", [github.com/siddharth-narayan/aiflow]))
+- Leveraged Nvidia's Triton Inference Server to make many AI-centric workflows and tasks as simple as selecting a model, inputs, and outputs
+- Built a frontend node-based editor to allow for the flow of data across any HuggingFace models.
 
+*ZxForms* -- Simple Zod-based Form Builder
+(#link("https://github.com/siddharth-narayan/zxforms", [github.com/siddharth-narayan/zxforms]))
+
+- Built an intuitive, simple form builder that generates a fully featured, automatically validated form from a single Zod schema
+- Built in both React and Svelte, and made incredibly customizable and reactive
 
 
 == Skills
