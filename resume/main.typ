@@ -30,9 +30,10 @@
 
 #let technologies = (
   (name: "Git", images: ("assets/icons/git/git-original.svg",)),
+  (name: "Linux", images: ("assets/icons/linux/linux-original.svg",)),
   (name: "Docker", images: ("assets/icons/docker/docker-plain.svg",)),
   (name: "NginX", images: ("assets/icons/nginx/nginx-original.svg",)),
-  (name: none, images: ("assets/icons/ghidra-logo.png",)),
+  (name: "Ghidra", images: ("assets/icons/ghidra-logo.png",)),
 )
 
 #show: resume.with(
@@ -63,10 +64,10 @@
 
 == Projects
 *Post Quantum Cryptography* -- Enabled Post Quantum Functionality on a VPN (#link("https://github.com/siddharth-narayan/zxforms", [SoftEtherVPN\#2002]))
-- Researched and integrated oqs-provider into the build process of SoftEtherVPN, integrating it with Cmake automatically to include post quantum functionality by default on any platform
+- Researched and integrated oqs-provider into the build process of SoftEtherVPN, integrating it with CMake automatically to include post quantum functionality by default on any platform
 
 *AI-Flow* -- A UI for HuggingFace ML Models (#link("https://github.com/siddharth-narayan/aiflow", [github.com/siddharth-narayan/aiflow]))
-- Leveraged Nvidia's Triton Inference Server to make many AI-centric workflows and tasks as simple as selecting a model, inputs, and outputs
+- Leveraged Nvidia's Triton Inference Server to make many AI-centric workflows and tasks as simple as selecting inputs and outputs, and a model
 - Built a frontend node-based editor to allow for the flow of data across any HuggingFace models.
 
 *ZxForms* -- Simple Zod-based Form Builder
