@@ -58,12 +58,12 @@
   degree: "Bachelor's in Computer Science",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
-  consistent: true,
+  // consistent: true,
 )
 - Relevant Coursework: Compiler Design, Operating Systems Concepts, Software Engineering, Advanced Algorithm Design, Computer Architecture, Data Structures, Linear Algebra
 
 == Projects
-*Post Quantum Cryptography* -- Enabled Post Quantum Functionality on a VPN (#link("https://github.com/siddharth-narayan/zxforms", [SoftEtherVPN\#2002]))
+*Post Quantum Cryptography* -- Enabled Post Quantum Functionality on a VPN (#link("https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2022", [SoftEtherVPN\#2022]))
 - Researched and integrated oqs-provider into the build process of SoftEtherVPN, integrating it with CMake automatically to include post quantum functionality by default on any platform
 
 *AI-Flow* -- A UI for HuggingFace ML Models (#link("https://github.com/siddharth-narayan/aiflow", [github.com/siddharth-narayan/aiflow]))
@@ -76,6 +76,11 @@
 - Built an intuitive, simple form builder that generates a fully featured, automatically validated form from a single Zod schema
 - Built in both React and Svelte, and made incredibly customizable and reactive
 
+*ML Market Predictor*
+(#link("https://github.com/siddharth-narayan/quant", [github.com/siddharth-narayan/quant]))
+- A project purely for learning about ML approaches
+- Neural Net approach, trained on many companies
+- Predict if the stock price of a company will go up or down using data from yahoo finance
 
 == Skills
 *Programming Languages*
