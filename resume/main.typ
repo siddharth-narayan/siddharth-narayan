@@ -43,7 +43,7 @@
   phone: phone,
   personal-site: personal-site,
   accent-color: color.rgb(255, 90, 0),
-  font: "New Computer Modern",
+  font: "",
   paper: "us-letter",
   author-position: left,
   personal-info-position: left,
@@ -62,6 +62,15 @@
 )
 - Relevant Coursework: Compiler Design, Operating Systems Concepts, Software Engineering, Advanced Algorithm Design, Computer Architecture, Data Structures, Linear Algebra
 
+== Experience
+#work(
+  title: "S.T.E.M. Summer Camp Instructor",
+  company: "S.E.T School of Metrowest",
+  dates: dates-helper(start-date: "Jun 2016", end-date: "Aug 2023"),
+  location: "Ashland, MA"
+)
+- S.T.E.M Summer camp for kids K--8 with a focus on robotics and science topics like chemistry and physics
+- Instructed students programming LEGO Mindstorms Robots
 == Projects
 *Post Quantum Cryptography* -- Enabled Post Quantum Functionality on a VPN (#link("https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2022", [SoftEtherVPN\#2022]))
 - Researched and integrated oqs-provider into the build process of SoftEtherVPN, integrating it with CMake automatically to include post quantum functionality by default on any platform
@@ -81,6 +90,11 @@
 - A project purely for learning about ML approaches
 - Neural Net approach, trained on many companies
 - Predict if the stock price of a company will go up or down using data from yahoo finance
+
+*Distributed Cryptographic  Table-Top Game*
+- Written in Rust, peers communicate directly with each other
+- Peers use STUN servers to find their public socket address and announce their presence via a tracking server
+- Each peer is able to calculate how other peers answered "yes" or "no" to a specified question, without knowing which way a specific peer answered
 
 == Skills
 *Programming Languages*
