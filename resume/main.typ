@@ -43,7 +43,7 @@
   phone: phone,
   personal-site: personal-site,
   accent-color: color.rgb(255, 90, 0),
-  font: "",
+  font: "Times New Roman",
   paper: "us-letter",
   author-position: left,
   personal-info-position: left,
@@ -58,7 +58,7 @@
   degree: "Bachelor's in Computer Science",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
-  // consistent: true,
+  consistent: true,
 )
 - Relevant Coursework: Compiler Design, Operating Systems Concepts, Software Engineering, Advanced Algorithm Design, Computer Architecture, Data Structures, Linear Algebra
 
@@ -83,7 +83,7 @@
 (#link("https://github.com/siddharth-narayan/zxforms", [github.com/siddharth-narayan/zxforms]))
 
 - Built an intuitive, simple form builder that generates a fully featured, automatically validated form from a single Zod schema
-- Built in both React and Svelte, and made incredibly customizable and reactive
+- Built in both React and Svelte, and made fully customizable and reactive
 
 *ML Market Predictor*
 (#link("https://github.com/siddharth-narayan/quant", [github.com/siddharth-narayan/quant]))
@@ -97,14 +97,11 @@
 - Each peer is able to calculate how other peers answered "yes" or "no" to a specified question, without knowing which way a specific peer answered
 
 == Skills
-*Programming Languages*
+*Programming Languages & Technologies*
 #set par(justify: false)
 #for language in languages [
   #tech(language)
 ]
-
-*Technologies*
-
 #for technology in technologies [
   #tech(technology)
 ]

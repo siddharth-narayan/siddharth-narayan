@@ -43,7 +43,7 @@
 #let tech(skill) = box(
   // fill: gradient.linear(..color.map.flare, angle: 270deg),
   // fill: gold-gradient,
-  width: 8em,
+  width: 7.5em,
   height: 8em,
   inset: 1em,
   {
@@ -55,9 +55,7 @@
       align: center,
       ..skill.images.map(i => {
         if skill.name != none {
-          image(i, width: 4em)
-        } else {
-          image(i, width: 6em)
+          image(i, width: 3.8em)
         }
         
       }),
