@@ -1,37 +1,3 @@
-// #let tech(name, file) = {
-//   box(
-//     image(file, width: 1em)
-//   )
-  
-//   h(0.3em)
-//   strong(name)
-// }
-
-// #let tech(skill) = {
-//   box(
-//     fill: gradient.linear(..color.map.flare, angle: 270deg),
-//     width: 8em,
-//     height: 8em,
-//     inset: 1em,
-//     [
-// #align(center, {
-//   for i in skill.images {
-//     box(
-//       height: 4em,
-//       align(center, 
-//       image(i, width: 4em / skill.images.len() )
-//       )
-      
-//     )
-//   }
-//   parbreak()
-//   strong(skill.name)
-// })
-      
-//     ]
-//   )
-// }
-
 #let gold-gradient = gradient.linear(
     rgb("#fdf6e3"),   // very light cream
     rgb("#f8e8b0"),  // pale gold
@@ -43,8 +9,8 @@
 #let tech(skill) = box(
   // fill: gradient.linear(..color.map.flare, angle: 270deg),
   // fill: gold-gradient,
-  width: 7.5em,
-  height: 8em,
+  width: 7.4em,
+  height: 7.0em,
   inset: 1em,
   {
     let cols = skill.images.len()
