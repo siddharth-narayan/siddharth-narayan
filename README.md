@@ -61,7 +61,7 @@ Notable contributions I've made so far
 
 [![Top Languages](./cards/top-langs-dark.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
-[![Top Languages](./cards/top-langs-dark.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
+[![Top Languages](./cards/top-langs-light.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
 
 ## Contact Me!
 
