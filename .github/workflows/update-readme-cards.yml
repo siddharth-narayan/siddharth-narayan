@@ -53,7 +53,7 @@ jobs:
         with:
           card: pin
           options: username=siddharth-narayan&repo=personal-site&theme=dark
-          path: cards/pin-personal-site-dark.svg
+          path: cards/personal-site-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin cards (light)
@@ -61,119 +61,119 @@ jobs:
         with:
           card: pin
           options: username=siddharth-narayan&repo=personal-site
-          path: cards/pin-personal-site-light.svg
+          path: cards/personal-site-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=Spotlight&theme=dark
-          path: cards/pin-spotlight-dark.svg
+          path: cards/spotlight-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=Spotlight
-          path: cards/pin-spotlight-light.svg
+          path: cards/spotlight-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=AiFlow&theme=dark
-          path: cards/pin-aiflow-dark.svg
+          path: cards/aiflow-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=AiFlow
-          path: cards/pin-aiflow-light.svg
+          path: cards/aiflow-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=zxform&theme=dark
-          path: cards/pin-zxform-dark.svg
+          path: cards/zxform-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=zxform
-          path: cards/pin-zxform-light.svg
+          path: cards/zxform-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=softether-cli&theme=dark
-          path: cards/pin-softether-cli-dark.svg
+          path: cards/softether-cli-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=softether-cli
-          path: cards/pin-softether-cli-light.svg
+          path: cards/softether-cli-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=test-vpn-rust&theme=dark
-          path: cards/pin-test-vpn-rust-dark.svg
+          path: cards/test-vpn-rust-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=test-vpn-rust
-          path: cards/pin-test-vpn-rust-light.svg
+          path: cards/test-vpn-rust-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=openssl-quantum&theme=dark
-          path: cards/pin-openssl-quantum-dark.svg
+          path: cards/openssl-quantum-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=openssl-quantum
-          path: cards/pin-openssl-quantum-light.svg
+          path: cards/openssl-quantum-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=test-vpn&theme=dark
-          path: cards/pin-test-vpn-dark.svg
+          path: cards/test-vpn-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=test-vpn
-          path: cards/pin-test-vpn-light.svg
+          path: cards/test-vpn-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=ai-translation-extension&theme=dark
-          path: cards/pin-ai-translation-extension-dark.svg
+          path: cards/ai-translation-extension-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=siddharth-narayan&repo=ai-translation-extension
-          path: cards/pin-ai-translation-extension-light.svg
+          path: cards/ai-translation-extension-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
