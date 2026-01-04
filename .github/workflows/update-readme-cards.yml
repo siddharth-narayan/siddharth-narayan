@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=siddharth-narayan&show_icons=true&theme=light&hide_rank=true
+          options: username=siddharth-narayan&show_icons=true&hide_rank=true
           path: cards/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -40,7 +40,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=siddharth-narayan&layout=compact&size_weight=0.5&count_weight=0.5&theme=light
+          options: username=siddharth-narayan&layout=compact&size_weight=0.5&count_weight=0.5
           path: cards/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -60,7 +60,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=personal-site&theme=light
+          options: username=siddharth-narayan&repo=personal-site
           path: cards/pin-personal-site-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -74,7 +74,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=Spotlight&theme=light
+          options: username=siddharth-narayan&repo=Spotlight
           path: cards/pin-spotlight-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -88,7 +88,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=AiFlow&theme=light
+          options: username=siddharth-narayan&repo=AiFlow
           path: cards/pin-aiflow-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -102,7 +102,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=zxform&theme=light
+          options: username=siddharth-narayan&repo=zxform
           path: cards/pin-zxform-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -116,7 +116,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=softether-cli&theme=light
+          options: username=siddharth-narayan&repo=softether-cli
           path: cards/pin-softether-cli-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -130,7 +130,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=test-vpn-rust&theme=light
+          options: username=siddharth-narayan&repo=test-vpn-rust
           path: cards/pin-test-vpn-rust-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -144,7 +144,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=openssl-quantum&theme=light
+          options: username=siddharth-narayan&repo=openssl-quantum
           path: cards/pin-openssl-quantum-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -158,7 +158,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=test-vpn&theme=light
+          options: username=siddharth-narayan&repo=test-vpn
           path: cards/pin-test-vpn-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -172,7 +172,7 @@ jobs:
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=siddharth-narayan&repo=ai-translation-extension&theme=light
+          options: username=siddharth-narayan&repo=ai-translation-extension
           path: cards/pin-ai-translation-extension-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
