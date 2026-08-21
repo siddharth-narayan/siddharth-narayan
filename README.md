@@ -26,42 +26,27 @@ Notable contributions I've made so far
 
 - https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2033
 
-### Web & UI - Frontend
-[![Readme Card](./cards/personal-site-dark.svg)](https://github.com/siddharth-narayan/personal-site#gh-dark-mode-only)
-[![Readme Card](./cards/spotlight-dark.svg)](https://github.com/siddharth-narayan/Spotlight#gh-dark-mode-only)
-[![Readme Card](./cards/aiflow-dark.svg)](https://github.com/siddharth-narayan/AiFlow#gh-dark-mode-only)
-[![Readme Card](./cards/zxforms-dark.svg)](https://github.com/siddharth-narayan/zxforms#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/zxforms?theme=github-light)](https://github.com/siddharth-narayan/zxforms#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/zxforms?theme=github-dark)](https://github.com/siddharth-narayan/zxforms#gh-dark-mode-only)
 
-[![Readme Card](./cards/personal-site-light.svg)](https://github.com/siddharth-narayan/personal-site#gh-light-mode-only)
-[![Readme Card](./cards/spotlight-light.svg)](https://github.com/siddharth-narayan/Spotlight#gh-light-mode-only)
-[![Readme Card](./cards/aiflow-light.svg)](https://github.com/siddharth-narayan/AiFlow#gh-light-mode-only)
-[![Readme Card](./cards/zxforms-light.svg)](https://github.com/siddharth-narayan/zxforms#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/readme-stats?theme=github-light)](https://github.com/siddharth-narayan/readme-stats#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/readme-stats?theme=github-dark)](https://github.com/siddharth-narayan/readme-stats#gh-dark-mode-only)
 
-### Rust
-[![Readme Card](./cards/softether-cli-dark.svg)](https://github.com/siddharth-narayan/softether-cli#gh-dark-mode-only)
-[![Readme Card](./cards/test-vpn-rust-dark.svg)](https://github.com/siddharth-narayan/test-vpn-rust#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/personal-site?theme=github-light)](https://github.com/siddharth-narayan/personal-site#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/personal-site?theme=github-dark)](https://github.com/siddharth-narayan/personal-site#gh-dark-mode-only)
 
-[![Readme Card](./cards/softether-cli-light.svg)](https://github.com/siddharth-narayan/softether-cli#gh-light-mode-only)
-[![Readme Card](./cards/test-vpn-rust-light.svg)](https://github.com/siddharth-narayan/test-vpn-rust#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/openssl-quantum?theme=github-light)](https://github.com/siddharth-narayan/openssl-quantum#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/openssl-quantum?theme=github-dark)](https://github.com/siddharth-narayan/openssl-quantum#gh-dark-mode-only)
 
-### Misc
-[![Readme Card](./cards/openssl-quantum-dark.svg)](https://github.com/siddharth-narayan/openssl-quantum#gh-dark-mode-only)
-[![Readme Card](./cards/test-vpn-dark.svg)](https://github.com/siddharth-narayan/test-vpn#gh-dark-mode-only)
-[![Readme Card](./cards/ai-translation-extension-dark.svg)](https://github.com/siddharth-narayan/ai-translation-extension#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/AiFlow?theme=github-light)](https://github.com/siddharth-narayan/AiFlow#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/AiFlow?theme=github-dark)](https://github.com/siddharth-narayan/AiFlow#gh-dark-mode-only)
 
-[![Readme Card](./cards/openssl-quantum-light.svg)](https://github.com/siddharth-narayan/openssl-quantum#gh-light-mode-only)
-[![Readme Card](./cards/test-vpn-light.svg)](https://github.com/siddharth-narayan/test-vpn#gh-light-mode-only)
-[![Readme Card](./cards/ai-translation-extension-light.svg)](https://github.com/siddharth-narayan/ai-translation-extension#gh-light-mode-only)
+## My Stats
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/languages/siddharth-narayan?ignore_langs=Smali,Java,HTML&ignore_repos=coboller&theme=github-light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/languages/siddharth-narayan?ignore_langs=Smali,Java,HTML&ignore_repos=coboller&theme=github-dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
-<!-- ## My Stats -->
-
-<!-- [![Siddharth's GitHub Stats](./cards/stats-dark.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
-
-[![Siddharth's GitHub Stats](./cards/stats-light.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
-
-[![Top Languages](./cards/top-langs-dark.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
-
-[![Top Languages](./cards/top-langs-light.svg)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only) -->
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/stats/siddharth-narayan?theme=github-light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/stats/siddharth-narayan?theme=github-dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
 ## Contact Me!
 
