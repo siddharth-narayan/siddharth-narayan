@@ -33,6 +33,10 @@ Notable contributions I've made so far
 [![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/Comet-Robotics/chessbots-embedded?theme=github-dark)](https://github.com/Comet-Robotics/chessbots-embedded#gh-dark-mode-only)
 
 ## Personal Projects
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/antlr5?theme=github-light)](https://github.com/siddharth-narayan/antlr5#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/antlr5?theme=github-dark)](https://github.com/siddharth-narayan/antlr5#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/scholar?theme=github-light)](https://github.com/siddharth-narayan/scholar#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/scholar?theme=github-dark)](https://github.com/siddharth-narayan/scholar#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/readme-stats?theme=github-light)](https://github.com/siddharth-narayan/readme-stats#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/readme-stats?theme=github-dark)](https://github.com/siddharth-narayan/readme-stats#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/personal-site?theme=github-light)](https://github.com/siddharth-narayan/personal-site#gh-light-mode-only)
