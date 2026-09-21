@@ -27,33 +27,33 @@ Notable contributions I've made so far
 - https://github.com/SoftEtherVPN/SoftEtherVPN/pull/2033
 
 ## Contributed to
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/SoftEtherVPN/SoftEtherVPN?theme=github-light)](https://github.com/SoftEtherVPN/SoftEtherVPN#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/SoftEtherVPN/SoftEtherVPN?theme=github-dark)](https://github.com/SoftEtherVPN/SoftEtherVPN#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/Comet-Robotics/chessbots-embedded?theme=github-light)](https://github.com/Comet-Robotics/chessbots-embedded#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/Comet-Robotics/chessbots-embedded?theme=github-dark)](https://github.com/Comet-Robotics/chessbots-embedded#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/SoftEtherVPN/SoftEtherVPN?theme=github-light)](https://github.com/SoftEtherVPN/SoftEtherVPN#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/SoftEtherVPN/SoftEtherVPN?theme=github-dark)](https://github.com/SoftEtherVPN/SoftEtherVPN#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/Comet-Robotics/chessbots-embedded?theme=github-light)](https://github.com/Comet-Robotics/chessbots-embedded#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/Comet-Robotics/chessbots-embedded?theme=github-dark)](https://github.com/Comet-Robotics/chessbots-embedded#gh-dark-mode-only)
 
 ## Personal Projects
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/antlr5?theme=github-light)](https://github.com/siddharth-narayan/antlr5#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/antlr5?theme=github-dark)](https://github.com/siddharth-narayan/antlr5#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/scholar?theme=github-light)](https://github.com/siddharth-narayan/scholar#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/scholar?theme=github-dark)](https://github.com/siddharth-narayan/scholar#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/readme-stats?theme=github-light)](https://github.com/siddharth-narayan/readme-stats#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/readme-stats?theme=github-dark)](https://github.com/siddharth-narayan/readme-stats#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/personal-site?theme=github-light)](https://github.com/siddharth-narayan/personal-site#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/personal-site?theme=github-dark)](https://github.com/siddharth-narayan/personal-site#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/openssl-quantum?theme=github-light)](https://github.com/siddharth-narayan/openssl-quantum#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/openssl-quantum?theme=github-dark)](https://github.com/siddharth-narayan/openssl-quantum#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/zxforms?theme=github-light)](https://github.com/siddharth-narayan/zxforms#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/zxforms?theme=github-dark)](https://github.com/siddharth-narayan/zxforms#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/AiFlow?theme=github-light)](https://github.com/siddharth-narayan/AiFlow#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/repos/siddharth-narayan/AiFlow?theme=github-dark)](https://github.com/siddharth-narayan/AiFlow#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/antlr5?theme=github-light)](https://github.com/siddharth-narayan/antlr5#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/antlr5?theme=github-dark)](https://github.com/siddharth-narayan/antlr5#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/scholar?theme=github-light)](https://github.com/siddharth-narayan/scholar#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/scholar?theme=github-dark)](https://github.com/siddharth-narayan/scholar#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/readme-stats?theme=github-light)](https://github.com/siddharth-narayan/readme-stats#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/readme-stats?theme=github-dark)](https://github.com/siddharth-narayan/readme-stats#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/personal-site?theme=github-light)](https://github.com/siddharth-narayan/personal-site#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/personal-site?theme=github-dark)](https://github.com/siddharth-narayan/personal-site#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/openssl-quantum?theme=github-light)](https://github.com/siddharth-narayan/openssl-quantum#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/openssl-quantum?theme=github-dark)](https://github.com/siddharth-narayan/openssl-quantum#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/zxforms?theme=github-light)](https://github.com/siddharth-narayan/zxforms#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/zxforms?theme=github-dark)](https://github.com/siddharth-narayan/zxforms#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/AiFlow?theme=github-light)](https://github.com/siddharth-narayan/AiFlow#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/repos/siddharth-narayan/AiFlow?theme=github-dark)](https://github.com/siddharth-narayan/AiFlow#gh-dark-mode-only)
 
 ## My Stats
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/languages/siddharth-narayan?ignore_langs=Smali,Java,HTML&ignore_repos=coboller&theme=github-light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/languages/siddharth-narayan?ignore_langs=Smali,Java,HTML&ignore_repos=coboller&theme=github-dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/languages/siddharth-narayan?ignore_langs=Smali,Java,HTML&ignore_repos=coboller&theme=github-light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/languages/siddharth-narayan?ignore_langs=Smali,Java,HTML&ignore_repos=coboller&theme=github-dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/stats/siddharth-narayan?theme=github-light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats-535890345750.us-south1.run.app/stats/siddharth-narayan?theme=github-dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/stats/siddharth-narayan?theme=github-light)](https://github.com/siddharth-narayan/siddharth-narayan#gh-light-mode-only)
+[![Readme Card](https://readme-stats.novaphaze.com/stats/siddharth-narayan?theme=github-dark)](https://github.com/siddharth-narayan/siddharth-narayan#gh-dark-mode-only)
 
 ## Contact Me!
 
